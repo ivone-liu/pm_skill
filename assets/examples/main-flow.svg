@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1142" height="262" viewBox="0 0 1142 262">
+<defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#0f172a" flood-opacity="0.08"/></filter></defs>
+<rect x="0" y="0" width="1142" height="262" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.5" />
+<text x="36" y="40" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="700" fill="#0F172A" text-anchor="start">需求提交主流程</text>
+<text x="36" y="66" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="400" fill="#475569" text-anchor="start">主流程图</text>
+<rect x="36" y="96" width="150" height="70" rx="30" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+<text x="111.0" y="136.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="14" font-weight="600" fill="#0F172A" text-anchor="middle">用户提交需求</text>
+<rect x="266" y="96" width="150" height="70" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+<text x="341.0" y="136.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="14" font-weight="600" fill="#0F172A" text-anchor="middle">系统校验字段</text>
+<polygon points="571.0,96 646,131.0 571.0,166 496,131.0" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+<text x="571.0" y="136.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="14" font-weight="600" fill="#0F172A" text-anchor="middle">是否通过</text>
+<rect x="726" y="96" width="150" height="70" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+<text x="801.0" y="136.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="14" font-weight="600" fill="#0F172A" text-anchor="middle">进入待评审</text>
+<rect x="956" y="96" width="150" height="70" rx="30" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+<text x="1031.0" y="136.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="14" font-weight="600" fill="#0F172A" text-anchor="middle">提示错误并停留</text>
+<line x1="186" y1="131.0" x2="266" y2="131.0" stroke="#2563EB" stroke-width="2.2" />
+<polygon points="266,131.0 258.79224905678063,134.47106991294046 258.79224905678063,127.52893008705954" fill="#2563EB" />
+<rect x="208.56" y="111.0" width="34.88" height="24" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+<text x="226.0" y="123.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">提交后</text>
+<line x1="416" y1="131.0" x2="496" y2="131.0" stroke="#2563EB" stroke-width="2.2" />
+<polygon points="496,131.0 488.79224905678063,134.47106991294046 488.79224905678063,127.52893008705954" fill="#2563EB" />
+<rect x="435.08" y="111.0" width="41.84" height="24" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+<text x="456.0" y="123.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">完成校验</text>
+<line x1="646" y1="131.0" x2="726" y2="131.0" stroke="#2563EB" stroke-width="2.2" />
+<polygon points="726,131.0 718.7922490567806,134.47106991294046 718.7922490567806,127.52893008705954" fill="#2563EB" />
+<rect x="675.52" y="111.0" width="20.96" height="24" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+<text x="686.0" y="123.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">是</text>
+<line x1="646" y1="131.0" x2="956" y2="131.0" stroke="#DC2626" stroke-width="2.2" />
+<polygon points="956,131.0 948.7922490567806,134.47106991294046 948.7922490567806,127.52893008705954" fill="#DC2626" />
+<rect x="790.52" y="111.0" width="20.96" height="24" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+<text x="801.0" y="123.0" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="middle">否</text>
+</svg>
